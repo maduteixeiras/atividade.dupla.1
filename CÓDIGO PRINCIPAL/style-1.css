@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("/assets/image.png");
+    background-image: url("/assets/image2.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -18,6 +18,7 @@ h1 {
     text-align: center;
     margin: 20px;
     font-size: 50px
+    
 }
 
 
@@ -30,11 +31,16 @@ p{
 }
 
 button {
-  background-color: #57cc28;
+  background-color: rgba(6, 85, 30, 0.856);
   display:block;
   height:auto;
   margin: 5px auto;
   padding: 5px;
   border-radius: 6px;
   text-decoration:none
+}
+
+button a {
+    text-decoration: none;
+    color: rgb(207, 219, 186);
 }
