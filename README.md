@@ -1,6 +1,6 @@
 # atividade.dupla.1
 
-## Criar Répositorio 
+# Criar Repositório 
 - New Repository 
 - Add README.md 
 - Create Repository 
