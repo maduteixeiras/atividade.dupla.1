@@ -28,3 +28,13 @@ p{
     margin: 20px;
     font-size: 20px
 }
+
+button {
+  background-color: #57cc28;
+  display:block;
+  height:auto;
+  margin: 5px auto;
+  padding: 5px;
+  border-radius: 6px;
+  text-decoration:none
+}
