@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("/assets/image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 { 
+    text-shadow: 3px 3px 5px rgba(0,0,0,0.3);
+    color: #eef7f0;
+    text-align: center;
+    margin: 20px;
+    font-size: 50px
+}
+
+
+p{
+    text-shadow: 3px 3px 5px rgba(0,0,0,0.3);
+    text-align: center;
+    color: #eef7f0;
+    margin: 20px;
+    font-size: 20px
+}
