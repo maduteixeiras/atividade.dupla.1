@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Cabecalho {
+    background-color: rgba(53, 85, 6, 0.856);
+}
+.Cabecalho h1 {
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    padding: 30px;
+    color: rgb(139, 155, 114);
+}
+
+.perguntas {
+    display: flex ;
+    flex-direction: column;
+    padding: 30px;
+}
+
+h2 {
+    color: rgba(2, 12, 1, 0.616);
+}
+
+button {
+    background-color: rgba(53, 85, 6, 0.856);
+    display:block;
+    height:auto;
+    margin: 6px auto;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration:none
+}
+
+button a {
+    text-decoration: none;
+    color: rgb(207, 219, 186);
+}
