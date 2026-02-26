@@ -6,8 +6,13 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
 .Cabecalho {
-    background-color: rgba(53, 85, 6, 0.856);
+    background-color: rgba(6, 85, 30, 0.856);
 }
 .Cabecalho h1 {
     text-align: center;
@@ -16,7 +21,7 @@
     font-weight: 500;
     font-style: normal;
     padding: 30px;
-    color: rgb(139, 155, 114);
+    color: rgb(4, 58, 20);
 }
 
 .perguntas {
@@ -26,11 +31,11 @@
 }
 
 h2 {
-    color: rgba(2, 12, 1, 0.616);
+    color: rgba(4, 58, 20, 0.87);
 }
 
 button {
-    background-color: rgba(53, 85, 6, 0.856);
+    background-color: rgba(6, 85, 30, 0.856);
     display:block;
     height:auto;
     margin: 6px auto;
@@ -41,7 +46,6 @@ button {
 
 button a {
     text-decoration: none;
-    color: rgb(207, 219, 186);
+    color: rgb(255, 255, 255);
 }
 
-/* testetttt */

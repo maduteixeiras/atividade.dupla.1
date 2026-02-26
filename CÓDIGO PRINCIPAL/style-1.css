@@ -12,11 +12,14 @@ body {
     background-attachment: fixed;
 }
 
+
 h1 { 
+    background-color: rgb(150, 207, 167);
     text-shadow: 3px 3px 5px rgba(0,0,0,0.3);
-    color: #eef7f0;
+    color: rgba(4, 46, 17, 0.856);
     text-align: center;
     margin: 20px;
+    border-radius: 20px;
     font-size: 50px
     
 }
